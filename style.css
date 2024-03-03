@@ -160,6 +160,10 @@ header {
 }
 
 /* Brands */
+.brands {
+  gap: 150px;
+}
+
 .brand {
   min-width: 250px;
 }
